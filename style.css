@@ -59,8 +59,11 @@ button{
     color: #fff;
     font-size: 16px;
     cursor: pointer;
-    width: 10vw;
+    padding-left: 10%;
+    padding-right: 10%;
     border-radius: 40px;
+    width: max-content;
+
 }
 
 ul li {
